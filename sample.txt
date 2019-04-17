@@ -1,0 +1,4 @@
+Name,Student Number,Mark,Gender
+Jarek,4545415,75,M
+Dhannya,1654521,69,F
+Sanah,54413221,79,F
